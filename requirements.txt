@@ -1,3 +1,4 @@
 opencv-python-headless
-face_recognition
 numpy
+https://github.com/binste/dlib-wheels/releases/download/v19.24.2/dlib-19.24.2-cp310-cp310-linux_x86_64.whl
+face_recognition
