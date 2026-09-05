@@ -1,6 +1,4 @@
 opencv-python-headless
+deepface
+tf-keras
 numpy
-face_recognition --no-deps
-face-recognition-models
-Click
-Pillow
